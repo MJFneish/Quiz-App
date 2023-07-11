@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Which planet in our solar system is known for having a ring system?",
+    "correctAnswer": "Saturn",
+    "answerChoices": ["Jupiter", "Mars", "Venus", "Saturn"]
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "correctAnswer": "Vatican City",
+    "answerChoices": ["San Marino", "Nauru", "Monaco", "Vatican City"]
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "correctAnswer": "Canberra",
+    "answerChoices": ["Melbourne", "Sydney", "Perth", "Canberra"]
+  },
+  {
+    "question": "Who wrote the novel 'Pride and Prejudice'?",
+    "correctAnswer": "Jane Austen",
+    "answerChoices": ["Charlotte Bronte", "Emily Bronte", "Jane Austen", "Virginia Woolf"]
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "correctAnswer": "Skin",
+    "answerChoices": ["Liver", "Heart", "Skin", "Lungs"]
+  },
+  {
+    "question": "What type of animal is the largest primate in the world?",
+    "correctAnswer": "Gorilla",
+    "answerChoices": ["Chimpanzee", "Orangutan", "Gorilla", "Bonobo"]
+  },
+  {
+    "question": "What is the smallest continent in the world?",
+    "correctAnswer": "Australia",
+    "answerChoices": ["Asia", "North America", "Australia", "Antarctica"]
+  },
+  {
+    "question": "Who painted the famous work 'The Starry Night'?",
+    "correctAnswer": "Vincent van Gogh",
+    "answerChoices": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Salvador Dali"]
+  },
+  {
+    "question": "What is the tallest mammal in the world?",
+    "correctAnswer": "Giraffe",
+    "answerChoices": ["Elephant", "Giraffe", "Hippopotamus", "Rhino"]
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "correctAnswer": "Jupiter",
+    "answerChoices": ["Neptune", "Jupiter", "Uranus", "Saturn"]
+  },
+  {
+    "question": "Which country has the most number of time zones?",
+    "correctAnswer": "Russia",
+    "answerChoices": ["China", "India", "Russia", "United States"]
+  },
+  {
+    "question": "Who is the founder of Microsoft?",
+    "correctAnswer": "Bill Gates",
+    "answerChoices": ["Steve Jobs", "Larry Page", "Bill Gates", "Mark Zuckerberg"]
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "correctAnswer": "Mount Kilimanjaro",
+    "answerChoices": ["Mount Everest", "Mount Kilimanjaro", "Mount Fuji", "Mount McKinley"]
+  },
+  {
+    "question": "Who invented the telephone?",
+    "correctAnswer": "Alexander Graham Bell",
+    "answerChoices": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"]
+  },
+  {
+    "question": "What is the highest mountain in North America?",
+    "correctAnswer": "Denali (Mount McKinley)",
+    "answerChoices": ["Mount Whitney", "Mount Elbert", "Denali (Mount McKinley)", "Mount Rainier"]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "correctAnswer": "Leonardo da Vinci",
+    "answerChoices": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Vincent van Gogh"]
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "correctAnswer": "Ottawa",
+    "answerChoices": ["Toronto", "Montreal", "Ottawa", "Vancouver"]
+  },
+  {
+    "question": "What is the smallest continent by population?",
+    "correctAnswer": "Antarctica",
+    "answerChoices": ["Australia", "South America", "Antarctica", "Europe"]
+  },
+  {
+    "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "correctAnswer": "Harper Lee",
+    "answerChoices": ["John Steinbeck", "Ernest Hemingway", "Harper Lee", "F. Scott Fitzgerald"]
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "correctAnswer": "Pacific Ocean",
+    "answerChoices": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Pacific Ocean"]
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "correctAnswer": "Neil Armstrong",
+    "answerChoices": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Alan Shepard"]
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "correctAnswer": "Tokyo",
+    "answerChoices": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"]
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "correctAnswer": "Sahara Desert",
+    "answerChoices": ["Gobi Desert", "Arabian Desert", "Sahara Desert", "Antarctic Desert"]
+  },
+  {
+    "question": "Who was the first U.S. president?",
+    "correctAnswer": "George Washington",
+    "answerChoices": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"]
+  },
+  {
+    "question": "What is the smallest particle in the universe?",
+    "correctAnswer": "Quark",
+    "answerChoices": ["Atom", "Electron", "Proton", "Quark"]
+  },
+  {
+    "question": "What is the largest species of shark?",
+    "correctAnswer": "Whale shark",
+    "answerChoices": ["Great white shark", "Hammerhead shark", "Tiger shark", "Whale shark"]
+  },
+  {
+    "question": "Who is the author of 'The Hunger Games' trilogy?",
+    "correctAnswer": "Suzanne Collins",
+    "answerChoices": ["J.K. Rowling", "Stephenie Meyer", "Suzanne Collins", "Veronica Roth"]
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "correctAnswer": "Brasília",
+    "answerChoices": ["São Paulo", "Rio de Janeiro", "Brasília", "Belo Horizonte"]
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "correctAnswer": "Vatican City",
+    "answerChoices": ["San Marino", "Monaco", "Andorra", "Vatican City"]
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "correctAnswer": "Jupiter",
+    "answerChoices": ["Saturn", "Uranus", "Neptune", "Jupiter"]
+  },
+  {
+    "question": "What is the capital city of India?",
+    "correctAnswer": "New Delhi",
+    "answerChoices": ["Mumbai", "Kolkata", "Chennai", "New Delhi"]
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "correctAnswer": "Vincent van Gogh",
+    "answerChoices": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Salvador Dali"]
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "correctAnswer": "Giraffe",
+    "answerChoices": ["Hippopotamus", "Elephant", "Giraffe", "Gorilla"]
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "correctAnswer": "F. Scott Fitzgerald",
+    "answerChoices": ["Ernest Hemingway", "John Steinbeck", "F. Scott Fitzgerald", "William Faulkner"]
+  },
+  {
+    "question": "What is the capital city of Russia?",
+    "correctAnswer": "Moscow",
+    "answerChoices": ["St. Petersburg", "Novosibirsk", "Moscow", "Yekaterinburg"]
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "correctAnswer": "Nile River",
+    "answerChoices": ["Amazon River", "Yangtze River", "Congo River", "Nile River"]
+  },
+  {
+    "question": "Who wrote the novel '1984'?",
+    "correctAnswer": "George Orwell",
+    "answerChoices": ["Aldous Huxley", "J.D. Salinger", "George Orwell", "Ray Bradbury"]
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "correctAnswer": "Skin",
+    "answerChoices": ["Liver", "Heart", "Lungs", "Skin"]
+  },
+  {
+    "question": "What is the capital city of South Africa?",
+    "correctAnswer": "Pretoria",
+    "answerChoices": ["Johannesburg", "Cape Town", "Durban", "Pretoria"]
+  },
+  {
+    "question": "Who directed the movie 'Jurassic Park'?",
+    "correctAnswer": "Steven Spielberg",
+    "answerChoices": ["George Lucas", "James Cameron", "Quentin Tarantino", "Steven Spielberg"]
+  },
+  {
+    "question": "What is the largest country in the world?",
+    "correctAnswer": "Russia",
+    "answerChoices": ["Canada", "China", "United States", "Russia"]
+  },
+  {
+    "question": "Who invented the telephone?",
+    "correctAnswer": "Alexander Graham Bell",
+    "answerChoices": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi", "Alexander Graham Bell"]
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "correctAnswer": "Canberra",
+    "answerChoices": ["Sydney", "Melbourne", "Canberra", "Brisbane"]
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "correctAnswer": "Jupiter",
+    "answerChoices": ["Earth", "Jupiter", "Mars", "Venus"]
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "correctAnswer": "Mount Kilimanjaro",
+    "answerChoices": ["Mount Everest", "Mount Kilimanjaro", "Mount Fuji", "Mount Aconcagua"]
+  },
+  {
+    "question": "Which country is the largest producer of coffee in the world?",
+    "correctAnswer": "Brazil",
+    "answerChoices": ["Colombia", "Vietnam", "Brazil", "Indonesia"]
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "correctAnswer": "Vatican City",
+    "answerChoices": ["Monaco", "San Marino", "Nauru", "Vatican City"]
+  },
+  {
+    "question": "What is the largest country in the world by land area?",
+    "correctAnswer": "Russia",
+    "answerChoices": ["China", "Canada", "Russia", "USA"]
+  },
+  {
+    "question": "Who wrote the book 'To Kill a Mockingbird'?",
+    "correctAnswer": "Harper Lee",
+    "answerChoices": ["Harper Lee", "John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald"]
+  },
+  {
+    "question": "What is the name of the longest river in South America?",
+    "correctAnswer": "Amazon River",
+    "answerChoices": ["Amazon River", "Orinoco River", "Parana River", "Magdalena River"]
+  },
+  {
+    "question": "What is the name of the first man to walk on the moon?",
+    "correctAnswer": "Neil Armstrong",
+    "answerChoices": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Alan Shepard"]
+  },
+  {
+    "question": "What is the largest animal on Earth?",
+    "correctAnswer": "Blue Whale",
+    "answerChoices": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"]
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "correctAnswer": "Sahara Desert",
+    "answerChoices": ["Mojave Desert", "Gobi Desert", "Kalahari Desert", "Sahara Desert"]
+  },
+  {
+    "question": "What is the name of the river that flows through London?",
+    "correctAnswer": "Thames",
+    "answerChoices": ["Seine", "Danube", "Thames", "Tiber"]
+  },
+  {
+    "question": "What is the name of the island country located southeast of Africa?",
+    "correctAnswer": "Madagascar",
+    "answerChoices": ["Sri Lanka", "Mauritius", "Madagascar", "Comoros"]
+  },
+  {
+    "question": "What is the name of the bird that can fly backwards?",
+    "correctAnswer": "Hummingbird",
+    "answerChoices": ["Penguin", "Hummingbird", "Eagle", "Ostrich"]
+  }
+]

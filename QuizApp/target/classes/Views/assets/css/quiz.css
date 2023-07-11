@@ -1,0 +1,124 @@
+VBox {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+Label {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    color: #153fe4;
+    margin-bottom: 10px;
+}
+
+Button {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background-color: #153fe4;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+
+RadioButton {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+HBox {
+    margin-top: 20px;
+}
+
+.resultText {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    color: #2c2cff;
+    margin-top: 10px;
+}
+
+Button {
+    -fx-background-color: #153fe4;
+    -fx-background-radius: 5px;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-pref-width: 120px;
+}
+
+Button:hover {
+    -fx-background-color: #1d55f0;
+}
+
+Button:pressed {
+    -fx-background-color: #0e2c9c;
+}
+
+/* Style for unselected radio button */
+.radio-button .radio {
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #0078D7;
+    -fx-border-width: 3px;
+    -fx-border-radius: 50%;
+}
+
+
+
+/* Style for unselected dot on radio button */
+.radio-button .radio .dot {
+    -fx-background-color: #0078D7;
+    -fx-border-color: #0078D7;
+    -fx-border-width: 3px;
+    -fx-border-radius: 50%;
+}
+
+/* Style for selected dot on radio button */
+.radio-button:selected .radio .dot {
+    -fx-background-color: #FFFFFF;
+}
+
+.radio-button .radio {
+    -fx-background-color: transparent;
+    -fx-border-width: 3px;
+    -fx-border-color: #ffffff;
+    -fx-border-radius: 50%;
+    -fx-padding: 0.0em;
+    -fx-scale-shape: false;
+}
+
+
+.radio-button {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333333;
+    -fx-background-color: #f0f0f0;
+    -fx-background-radius: 16px;
+    -fx-border-radius: 50%;
+    -fx-border-color: #999999;
+    -fx-border-width: 2px;
+    -fx-padding: 2px;
+    -fx-cursor: hand;
+    -fx-transition: all 0.2s ease-in-out;
+}
+
+.radio-button:selected {
+    -fx-background-color: #333333;
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #000000;
+}
+
+.radio-button:selected .radio {
+    -fx-background-color: #2196F3;
+    -fx-border-color: #2196F3;
+    -fx-border-radius: 20px;
+}
+
+.radio-button:selected .dot {
+    -fx-background-color: #fff;
+    -fx-background-radius: 50%;
+    -fx-padding: 4px;
+    -fx-min-width: 8px;
+    -fx-min-height: 8px;
+}

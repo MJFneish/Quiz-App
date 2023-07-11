@@ -1,0 +1,79 @@
+/* Set font family and size for all labels */
+label {
+    -fx-font-family: "Arial";
+    -fx-font-size: 16;
+}
+
+/* Set font family, size, and color for title */
+.label.title {
+    -fx-font-family: "Arial";
+    -fx-font-size: 24;
+    -fx-text-fill: #153fe4;
+}
+
+/* Set font family, size, and color for result text */
+.label.result {
+    -fx-font-family: "System Bold";
+    -fx-font-size: 20;
+    -fx-text-fill: #148a14;
+}
+
+/* Set font size for buttons */
+button {
+    -fx-font-size: 14;
+}
+
+/* Set background color, text color, and border color for buttons on hover and when pressed */
+button:hover, button:pressed {
+    -fx-background-color: #26b946;
+    -fx-text-fill: white;
+    -fx-border-color: #26b946;
+}
+
+/* Set background color for the VBox */
+#root {
+    -fx-background-color: #f7f7f7;
+}
+
+/* Set margin and border color for the line */
+.line {
+    -fx-stroke: #26b946;
+    -fx-stroke-width: 3;
+    -fx-margin-bottom: 10;
+    -fx-margin-top: 10;
+}
+
+/* Set margin for the labels */
+.label {
+    -fx-margin-bottom: 10;
+    -fx-margin-top: 10;
+}
+
+/* Set margin and alignment for the HBox */
+.hbox {
+    -fx-alignment: center;
+    -fx-margin-bottom: 20;
+}
+
+/* Set alignment and margin for the VBox containing the buttons */
+.vbox-buttons {
+    -fx-alignment: center;
+    -fx-margin-top: 50;
+}
+
+Button {
+    -fx-background-color: #153fe4;
+    -fx-background-radius: 5px;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+Button:hover {
+    -fx-background-color: #1d55f0;
+}
+
+Button:pressed {
+    -fx-background-color: #0e2c9c;
+}

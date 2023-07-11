@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What is the capital of Argentina?",
+    "answerChoices": [
+      "Santiago",
+      "Buenos Aires",
+      "Lima",
+      "La Paz"
+    ],
+    "correctAnswer": "Buenos Aires"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answerChoices": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Antarctica"
+    ],
+    "correctAnswer": "Antarctica"
+  },
+  {
+    "question": "What is the longest river in Africa?",
+    "answerChoices": [
+      "Niger",
+      "Congo",
+      "Nile",
+      "Zambezi"
+    ],
+    "correctAnswer": "Nile"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "answerChoices": [
+      "China",
+      "Japan",
+      "Korea",
+      "Vietnam"
+    ],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "answerChoices": [
+      "Madrid",
+      "Lisbon",
+      "Barcelona",
+      "Seville"
+    ],
+    "correctAnswer": "Lisbon"
+  },
+  {
+    "question": "What is the highest mountain in North America?",
+    "answerChoices": [
+      "Mount McKinley",
+      "Mount Logan",
+      "Mount Saint Elias",
+      "Mount Foraker"
+    ],
+    "correctAnswer": "Mount McKinley"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "answerChoices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answerChoices": [
+      "Vatican City",
+      "Monaco",
+      "Liechtenstein",
+      "San Marino"
+    ],
+    "correctAnswer": "Vatican City"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answerChoices": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "question": "What is the highest mountain in South America?",
+    "answerChoices": [
+      "Mount Aconcagua",
+      "Mount Chimborazo",
+      "Cotopaxi",
+      "Mount Coropuna"
+    ],
+    "correctAnswer": "Mount Aconcagua"
+  },
+  {
+    "question": "Which is the largest island in the world?",
+    "answerChoices": [
+      "Madagascar",
+      "Greenland",
+      "Borneo",
+      "Iceland"
+    ],
+    "correctAnswer": "Greenland"
+  },
+  {
+    "question": "Which is the smallest continent?",
+    "answerChoices": [
+      "Europe",
+      "Africa",
+      "Australia",
+      "South America"
+    ],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "correctAnswer": "Madrid",
+    "answerChoices": [
+      "Barcelona",
+      "Lisbon",
+      "Madrid",
+      "Paris"
+    ]
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "correctAnswer": "Mount Kilimanjaro",
+    "answerChoices": [
+      "Mount Everest",
+      "Mount Kilimanjaro",
+      "Mount Fuji",
+      "Mount Aconcagua"
+    ]
+  },
+  {
+    "question": "What is the longest river in South America?",
+    "correctAnswer": "Amazon River",
+    "answerChoices": [
+      "Nile River",
+      "Mississippi River",
+      "Amazon River",
+      "Yangtze River"
+    ]
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "correctAnswer": "Ottawa",
+    "answerChoices": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ]
+  },
+  {
+    "question": "What is the largest country in the world by area?",
+    "correctAnswer": "Russia",
+    "answerChoices": [
+      "China",
+      "United States",
+      "Russia",
+      "Brazil"
+    ]
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "correctAnswer": "Vatican City",
+    "answerChoices": [
+      "San Marino",
+      "Liechtenstein",
+      "Andorra",
+      "Vatican City"
+    ]
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "correctAnswer": "Bangkok",
+    "answerChoices": [
+      "Tokyo",
+      "Bangkok",
+      "Seoul",
+      "Beijing"
+    ]
+  },
+  {
+    "question": "What is the highest mountain in North America?",
+    "correctAnswer": "Denali (Mount McKinley)",
+    "answerChoices": [
+      "Mount Logan",
+      "Mount Saint Elias",
+      "Mount Foraker",
+      "Denali (Mount McKinley)"
+    ]
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "correctAnswer": "Sahara Desert",
+    "answerChoices": [
+      "Gobi Desert",
+      "Mojave Desert",
+      "Sahara Desert",
+      "Arabian Desert"
+    ]
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "correctAnswer": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+    "answerChoices": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria",
+      "Durban"
+    ]
+  },
+  {
+    "question": "What is the largest desert in Asia?",
+    "correctAnswer": "Gobi Desert",
+    "answerChoices": [
+      "Sahara Desert",
+      "Arabian Desert",
+      "Gobi Desert",
+      "Kara Kum Desert"
+    ]
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "correctAnswer": "Brasilia",
+    "answerChoices": [
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Brasilia",
+      "Belo Horizonte"
+    ]
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "correctAnswer": "Vatican City",
+    "answerChoices": [
+      "Monaco",
+      "Nauru",
+      "San Marino",
+      "Vatican City"
+    ]
+  },
+  {
+    "question": "What is the largest country in Africa by area?",
+    "correctAnswer": "Algeria",
+    "answerChoices": [
+      "Egypt",
+      "Democratic Republic of Congo",
+      "South Africa",
+      "Algeria"
+    ]
+  },
+  {
+    "question": "What is the capital city of Thailand?",
+    "correctAnswer": "Bangkok",
+    "answerChoices": [
+      "Phuket",
+      "Chiang Mai",
+      "Bangkok",
+      "Pattaya"
+    ]
+  },
+  {
+    "question": "What is the largest country in South America by area?",
+    "correctAnswer": "Brazil",
+    "answerChoices": [
+      "Colombia",
+      "Peru",
+      "Argentina",
+      "Brazil"
+    ]
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "correctAnswer": "Ottawa",
+    "answerChoices": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ]
+  },
+  {
+    "question": "What is the highest mountain in Europe?",
+    "correctAnswer": "Mount Elbrus",
+    "answerChoices": [
+      "Mount Etna",
+      "Mont Blanc",
+      "Mount Olympus",
+      "Mount Elbrus"
+    ]
+  },
+  {
+    "question": "What is the capital city of Spain?",
+    "correctAnswer": "Madrid",
+    "answerChoices": [
+      "Barcelona",
+      "Valencia",
+      "Seville",
+      "Madrid"
+    ]
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "correctAnswer": "Lake Victoria",
+    "answerChoices": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Chad",
+      "Lake Victoria"
+    ]
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "correctAnswer": "Canberra",
+    "answerChoices": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ]
+  },
+  {
+    "question": "What is the highest mountain in North America?",
+    "correctAnswer": "Denali",
+    "answerChoices": [
+      "Mount Logan",
+      "Mount Saint Elias",
+      "Denali",
+      "Mount Foraker"
+    ]
+  },
+  {
+    "question": "What is the capital city of South Korea?",
+    "correctAnswer": "Seoul",
+    "answerChoices": [
+      "Busan",
+      "Daegu",
+      "Incheon",
+      "Seoul"
+    ]
+  },
+  {
+    "question": "What is the capital city of India?",
+    "correctAnswer": "New Delhi",
+    "answerChoices": [
+      "Mumbai",
+      "New Delhi",
+      "Kolkata",
+      "Chennai"
+    ]
+  },
+  {
+    "question": "What is the name of the highest mountain in Africa?",
+    "correctAnswer": "Mount Kilimanjaro",
+    "answerChoices": [
+      "Mount Everest",
+      "Mount Kilimanjaro",
+      "Mount Aconcagua",
+      "Mount Denali"
+    ]
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "correctAnswer": "Greenland",
+    "answerChoices": [
+      "Madagascar",
+      "Borneo",
+      "Greenland",
+      "Sumatra"
+    ]
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "correctAnswer": "Sahara",
+    "answerChoices": [
+      "Gobi",
+      "Arabian",
+      "Sahara",
+      "Kalahari"
+    ]
+  },
+  {
+    "question": "What is the capital city of Italy?",
+    "correctAnswer": "Rome",
+    "answerChoices": [
+      "Paris",
+      "Barcelona",
+      "Athens",
+      "Rome"
+    ]
+  },
+  {
+    "question": "What is the name of the highest mountain in Europe?",
+    "correctAnswer": "Mount Elbrus",
+    "answerChoices": [
+      "Mont Blanc",
+      "Mount Elbrus",
+      "Mount Olympus",
+      "Mount Etna"
+    ]
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "correctAnswer": "Canberra",
+    "answerChoices": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane",
+      "Canberra"
+    ]
+  },
+  {
+    "question": "What is the name of the longest river in Africa?",
+    "correctAnswer": "Nile",
+    "answerChoices": [
+      "Congo",
+      "Niger",
+      "Nile",
+      "Zambezi"
+    ]
+  },
+  {
+    "question": "What is the largest country by area in South America?",
+    "correctAnswer": "Brazil",
+    "answerChoices": [
+      "Argentina",
+      "Colombia",
+      "Chile",
+      "Brazil"
+    ]
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "correctAnswer": "Tokyo",
+    "answerChoices": [
+      "Osaka",
+      "Kyoto",
+      "Tokyo",
+      "Nagoya"
+    ]
+  },
+  {
+    "question": "What is the name of the highest waterfall in the world?",
+    "correctAnswer": "Angel Falls",
+    "answerChoices": [
+      "Victoria Falls",
+      "Niagara Falls",
+      "Angel Falls",
+      "Iguazu Falls"
+    ]
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "correctAnswer": "Ottawa",
+    "answerChoices": [
+      "Vancouver",
+      "Toronto",
+      "Montreal",
+      "Ottawa"
+    ]
+  },
+  {
+    "question": "What is the largest country by area in the Middle East?",
+    "correctAnswer": "Saudi Arabia",
+    "answerChoices": [
+      "Iran",
+      "Iraq",
+      "Turkey",
+      "Saudi Arabia"
+    ]
+  }
+]

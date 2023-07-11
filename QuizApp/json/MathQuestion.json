@@ -1,0 +1,582 @@
+[
+  {
+    "question": "What is 3 + 5?",
+    "correctAnswer": "8",
+    "answerChoices": [
+      "2",
+      "6",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "question": "What is the square root of 64?",
+    "correctAnswer": "8",
+    "answerChoices": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "question": "What is 4 × 9?",
+    "correctAnswer": "36",
+    "answerChoices": [
+      "24",
+      "28",
+      "32",
+      "36"
+    ]
+  },
+  {
+    "question": "What is the value of x in the equation 2x + 3 = 9?",
+    "correctAnswer": "3",
+    "answerChoices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "What is 8 ÷ 2?",
+    "correctAnswer": "4",
+    "answerChoices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "What is 3 × (4 + 2)?",
+    "correctAnswer": "18",
+    "answerChoices": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ]
+  },
+  {
+    "question": "What is the value of y in the equation 5y - 7 = 18?",
+    "correctAnswer": "5",
+    "answerChoices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "question": "What is 12 × 12?",
+    "correctAnswer": "144",
+    "answerChoices": [
+      "132",
+      "144",
+      "156",
+      "168"
+    ]
+  },
+  {
+    "question": "What is 7 + 9 + 2?",
+    "correctAnswer": "18",
+    "answerChoices": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ]
+  },
+  {
+    "question": "What is the value of x in the equation 3x - 5 = 16?",
+    "correctAnswer": "7",
+    "answerChoices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "question": "What is 6 × 5 + 3?",
+    "correctAnswer": "33",
+    "answerChoices": [
+      "27",
+      "30",
+      "33",
+      "36"
+    ]
+  },
+  {
+    "question": "What is the value of y in the equation 4y + 8 = 20?",
+    "correctAnswer": "3",
+    "answerChoices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "question": "What is 9 - 4?",
+    "correctAnswer": "5",
+    "answerChoices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "question": "What is the value of x in the equation 2x - 7 = 11?",
+    "correctAnswer": "9",
+    "answerChoices": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "question": "What is 5 × 6?",
+    "correctAnswer": "30",
+    "answerChoices": [
+      "25",
+      "28",
+      "30",
+      "35"
+    ]
+  },
+  {
+    "question": "What is 10 ÷ 2?",
+    "correctAnswer": "5",
+    "answerChoices": [
+      "20",
+      "2",
+      "5",
+      "12"
+    ]
+  },
+  {
+    "question": "What is 8 × 7?",
+    "correctAnswer": "56",
+    "answerChoices": ["42", "49", "56", "63"]
+  },
+  {
+    "question": "What is the value of x in the equation 3x + 5 = 23?",
+    "correctAnswer": "6",
+    "answerChoices": ["4", "5", "6", "7"]
+  },
+  {
+    "question": "What is 20 - 7?",
+    "correctAnswer": "13",
+    "answerChoices": ["11", "12", "13", "14"]
+  },
+  {
+    "question": "What is 2 + 2 × 3?",
+    "correctAnswer": "8",
+    "answerChoices": ["6", "7", "8", "9"]
+  },
+  {
+    "question": "What is the value of y in the equation 2y - 3 = 11?",
+    "correctAnswer": "7",
+    "answerChoices": ["6", "7", "8", "9"]
+  },
+  {
+    "question": "What is 6 ÷ 2?",
+    "correctAnswer": "3",
+    "answerChoices": ["2", "3", "4", "5"]
+  },
+  {
+    "question": "What is the value of x in the equation 4x - 7 = 17?",
+    "correctAnswer": "6",
+    "answerChoices": ["5", "6", "7", "8"]
+  },
+  {
+    "question": "What is 7 × 8?",
+    "correctAnswer": "56",
+    "answerChoices": ["49", "52", "56", "63"]
+  },
+  {
+    "question": "What is 9 + 4?",
+    "correctAnswer": "13",
+    "answerChoices": ["11", "12", "13", "14"]
+  },
+  {
+    "question": "What is the value of y in the equation 3y + 2 = 17?",
+    "correctAnswer": "5",
+    "answerChoices": ["4", "5", "6", "7"]
+  },
+  {
+    "question": "What is 15 - 8?",
+    "correctAnswer": "7",
+    "answerChoices": ["5", "6", "7", "8"]
+  },
+  {
+    "question": "What is 3 × 7?",
+    "correctAnswer": "21",
+    "answerChoices": ["18", "20", "21", "24"]
+  },
+  {
+    "question": "What is the value of x in the equation 5x - 9 = 36?",
+    "correctAnswer": "9",
+    "answerChoices": ["8", "9", "10", "11"]
+  },
+  {
+    "question": "What is 12 ÷ 4?",
+    "correctAnswer": "3",
+    "answerChoices": ["2", "3", "4", "5"]
+  },
+  {
+    "question": "What is the value of y in the equation 4y - 1 = 27?",
+    "correctAnswer": "7",
+    "answerChoices": ["6", "7", "8", "9"]
+  },
+  {
+    "question": "What is 6 × 8?",
+    "correctAnswer": "48",
+    "answerChoices": ["40", "44", "48", "52"]
+  },
+  {
+    "question": "What is the value of 2 + 2?",
+    "answerChoices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is the square root of 16?",
+    "answerChoices": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is the result of 5 * 6?",
+    "answerChoices": [
+      "10",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "What is the value of x in the equation 2x + 5 = 11?",
+    "answerChoices": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is the result of 8 / 2 + 3?",
+    "answerChoices": [
+      "7",
+      "10",
+      "11",
+      "14"
+    ],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "What is the value of y in the equation 4y - 2 = 14?",
+    "answerChoices": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is the value of 5^2?",
+    "answerChoices": [
+      "5",
+      "10",
+      "25",
+      "50"
+    ],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "What is the value of 7 * 9?",
+    "answerChoices": [
+      "49",
+      "56",
+      "63",
+      "72"
+    ],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "What is the result of 3 + 4 * 5?",
+    "answerChoices": [
+      "15",
+      "23",
+      "27",
+      "35"
+    ],
+    "correctAnswer": "23"
+  },
+  {
+    "question": "What is the value of x in the equation 3x - 4 = 8?",
+    "answerChoices": [
+      "3",
+      "4",
+      "6",
+      "12"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is the value of 4^3?",
+    "answerChoices": [
+      "8",
+      "12",
+      "16",
+      "64"
+    ],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "What is the result of 10 / 2 + 3?",
+    "answerChoices": [
+      "6",
+      "8",
+      "10",
+      "13"
+    ],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "What is the value of y in the equation 5y + 7 = 22?",
+    "answerChoices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is the derivative of x^3?",
+    "answerChoices": [
+      "3x^2",
+      "2x^3",
+      "4x^2",
+      "x^2"
+    ],
+    "correctAnswer": "3x^2"
+  },
+  {
+    "question": "What is the value of the integral of sin(x) from 0 to pi/2?",
+    "answerChoices": [
+      "0",
+      "1",
+      "-1",
+      "2"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "What is the value of the limit of (x^2 - 4)/(x - 2) as x approaches 2?",
+    "answerChoices": [
+      "0",
+      "2",
+      "4",
+      "undefined"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is the value of the derivative of cos(x)?",
+    "answerChoices": [
+      "sin(x)",
+      "cos(x)",
+      "-sin(x)",
+      "-cos(x)"
+    ],
+    "correctAnswer": "-sin(x)"
+  },
+  {
+    "question": "What is the value of the integral of x^2 from 0 to 1?",
+    "answerChoices": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "What is the value of the limit of (1 - cos(x))/x as x approaches 0?",
+    "answerChoices": [
+      "0",
+      "1",
+      "infinity",
+      "undefined"
+    ],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "What is the value of the derivative of e^x?",
+    "answerChoices": [
+      "e^x",
+      "x*e^x",
+      "e^(x-1)",
+      "1/e^x"
+    ],
+    "correctAnswer": "e^x"
+  },
+  {
+    "question": "What is the value of the integral of 1/(x^2 + 1) from 0 to infinity?",
+    "answerChoices": [
+      "pi/2",
+      "pi/4",
+      "1",
+      "infinity"
+    ],
+    "correctAnswer": "pi/2"
+  },
+  {
+    "question": "What is the value of the limit of (x^3 - 1)/(x^2 - 1) as x approaches 1?",
+    "answerChoices": [
+      "1",
+      "2",
+      "3",
+      "undefined"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is the value of the derivative of ln(x)?",
+    "answerChoices": [
+      "1/x",
+      "ln(x)",
+      "x",
+      "e^x"
+    ],
+    "correctAnswer": "1/x"
+  },
+  {
+    "question": "What is the value of the integral of e^(2x) from 0 to ln(2)?",
+    "answerChoices": [
+      "1/2",
+      "1",
+      "2",
+      "4"
+    ],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "What is the value of the limit of (x^2 - 1)/(x - 1) as x approaches 1?",
+    "answerChoices": [
+      "1",
+      "2",
+      "3",
+      "undefined"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "What is the value of the derivative of tan(x)?",
+    "answerChoices": [
+      "1/cos^2(x)",
+      "1/sin^2(x)",
+      "cos(x)",
+      "sin(x)"
+    ],
+    "correctAnswer": "1/cos^2(x)"
+  },
+  {
+    "question": "What is the value of the integral of x*cos(x) from 0 to pi/2?",
+    "answerChoices": [
+      "pi/4",
+      "pi/2",
+      "2",
+      "2*pi"
+    ],
+    "correctAnswer": "pi/2"
+  },
+  {
+    "question": "What is the value of the limit of (2^x - 1)/x as x approaches 0?",
+    "answerChoices": [
+      "0",
+      "1",
+      "ln(2)",
+      "infinity"
+    ],
+    "correctAnswer": "ln(2)"
+  },
+  {
+    "question": "What is the value of the derivative of sec(x)?",
+    "answerChoices": [
+      "sec(x)*tan(x)",
+      "sec(x)",
+      "-sec(x)*tan(x)",
+      "-sec(x)^2"
+    ],
+    "correctAnswer": "sec(x)*tan(x)"
+  },
+  {
+    "question": "What is the value of the integral of (x^3 - x)/(x^2 - x + 1) from 0 to 1?",
+    "answerChoices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/5"
+    ],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "What is the value of the limit of (1 - e^-x)/x as x approaches 0?",
+    "answerChoices": [
+      "0",
+      "1",
+      "infinity",
+      "undefined"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "What is the value of the derivative of arcsin(x)?",
+    "answerChoices": [
+      "1/sqrt(1-x^2)",
+      "sqrt(1-x^2)",
+      "-1/sqrt(1-x^2)",
+      "-sqrt(1-x^2)"
+    ],
+    "correctAnswer": "1/sqrt(1-x^2)"
+  },
+  {
+    "question": "What is the value of the integral of e^x*cos(x) from 0 to pi?",
+    "answerChoices": [
+      "1/2",
+      "pi/2",
+      "1",
+      "2"
+    ],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "What is the value of the limit of (1 - 2^(-x))/x as x approaches infinity?",
+    "answerChoices": [
+      "0",
+      "1",
+      "ln(2)",
+      "infinity"
+    ],
+    "correctAnswer": "ln(2)"
+  }
+]

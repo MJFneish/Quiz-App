@@ -1,0 +1,55 @@
+/* Set background color for the VBox */
+VBox {
+    -fx-background-color: #F5F5F5;
+}
+
+/* Style for the username label */
+#username {
+    -fx-padding: 10px;
+}
+
+/* Style for the title label */
+Label {
+    -fx-font-family: "Bell MT";
+    -fx-font-size: 24px;
+    -fx-padding: 10px;
+}
+
+/* Style for the HBox containing the buttons */
+HBox {
+    -fx-alignment: center;
+    -fx-padding: 20px;
+    -fx-spacing: 20px;
+}
+
+/* Style for the quiz buttons */
+Button {
+    -fx-background-color: #306fe4;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 10, 0, 0, 0);
+}
+
+/* Hover effect for quiz buttons */
+Button:hover {
+    -fx-background-color: #3f8fff;
+}
+
+/* Active (pressed) effect for quiz buttons */
+Button:pressed {
+    -fx-background-color: #2058a5;
+}
+
+/* Disable effect for quiz buttons */
+Button:disabled {
+    -fx-opacity: 0.5;
+}
+
+/* Style for the username label text */
+#username .text {
+    -fx-fill: #306fe4;
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}

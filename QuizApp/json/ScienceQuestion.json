@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Which of the following is the smallest planet in our solar system?",
+    "answerChoices": [
+      "Mercury",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "question": "What is the chemical symbol for the element iron?",
+    "answerChoices": [
+      "Fe",
+      "Ir",
+      "In",
+      "Fr"
+    ],
+    "correctAnswer": "Fe"
+  },
+  {
+    "question": "What is the name of the process by which plants convert light energy into chemical energy?",
+    "answerChoices": [
+      "Photosynthesis",
+      "Cellular respiration",
+      "Mitosis",
+      "Meiosis"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "answerChoices": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Helium"
+    ],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "question": "What is the name of the smallest particle that can be an element?",
+    "answerChoices": [
+      "Atom",
+      "Molecule",
+      "Electron",
+      "Proton"
+    ],
+    "correctAnswer": "Atom"
+  },
+  {
+    "question": "What is the name of the process by which plants release oxygen into the atmosphere?",
+    "answerChoices": [
+      "Photosynthesis",
+      "Cellular respiration",
+      "Mitosis",
+      "Meiosis"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "What is the name of the galaxy that contains our solar system?",
+    "answerChoices": [
+      "Milky Way",
+      "Andromeda",
+      "Whirlpool",
+      "Pinwheel"
+    ],
+    "correctAnswer": "Milky Way"
+  },
+  {
+    "question": "What is the name of the process by which a solid changes directly into a gas?",
+    "answerChoices": [
+      "Sublimation",
+      "Melting",
+      "Evaporation",
+      "Condensation"
+    ],
+    "correctAnswer": "Sublimation"
+  },
+  {
+    "question": "What is the name of the particle that carries a negative charge in an atom?",
+    "answerChoices": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Photon"
+    ],
+    "correctAnswer": "Electron"
+  },
+  {
+    "question": "What is the name of the first man to walk on the moon?",
+    "answerChoices": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins",
+      "Yuri Gagarin"
+    ],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which of the following is a gas that is lighter than air?",
+    "answerChoices": [
+      "Helium",
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "correctAnswer": "Helium"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a gas?",
+    "answerChoices": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Freezing"
+    ],
+    "correctAnswer": "Evaporation"
+  },
+  {
+    "question": "What is the name of the process by which a gas changes into a liquid?",
+    "answerChoices": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Freezing"
+    ],
+    "correctAnswer": "Condensation"
+  },
+  {
+    "question": "What is the name of the particle that carries no charge in an atom?",
+    "answerChoices": [
+      "Neutron",
+      "Proton",
+      "Electron",
+      "Photon"
+    ],
+    "correctAnswer": "Neutron"
+  },
+  {
+    "question": "What is the name of the force that holds the planets in orbit around the sun?",
+    "answerChoices": [
+      "Gravity",
+      "Magnetism",
+      "Electricity",
+      "Nuclear force"
+    ],
+    "correctAnswer": "Gravity"
+  },
+  {
+    "question": "What is the name of the process by which a solid changes into a liquid?",
+    "answerChoices": [
+      "Melting",
+      "Freezing",
+      "Evaporation",
+      "Condensation"
+    ],
+    "correctAnswer": "Melting"
+  },
+  {
+    "question": "What is the name of the particle that carries a packet of energy called a photon?",
+    "answerChoices": [
+      "Photon",
+      "Electron",
+      "Proton",
+      "Neutron"
+    ],
+    "correctAnswer": "Photon"
+  },
+  {
+    "question": "What is the name of the particle that carries a negative charge in a solution?",
+    "answerChoices": [
+      "Anion",
+      "Cation",
+      "Proton",
+      "Neutron"
+    ],
+    "correctAnswer": "Anion"
+  },
+  {
+    "question": "What is the name of the particle that carries a positive charge in a solution?",
+    "answerChoices": [
+      "Cation",
+      "Anion",
+      "Proton",
+      "Neutron"
+    ],
+    "correctAnswer": "Cation"
+  },
+  {
+    "question": "What is the name of the process by which an organism produces its own food using light energy?",
+    "answerChoices": [
+      "Photosynthesis",
+      "Cellular respiration",
+      "Fermentation",
+      "Digestion"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "What is the name of the particle that carries a charge in an electrolyte solution?",
+    "answerChoices": [
+      "Ion",
+      "Neutron",
+      "Photon",
+      "Electron"
+    ],
+    "correctAnswer": "Ion"
+  },
+  {
+    "question": "What is the name of the process by which a liquid changes into a solid?",
+    "answerChoices": [
+      "Freezing",
+      "Melting",
+      "Evaporation",
+      "Condensation"
+    ],
+    "correctAnswer": "Freezing"
+  },
+  {
+    "question": "What is the name of the process by which a gas changes into a solid?",
+    "answerChoices": [
+      "Deposition",
+      "Sublimation",
+      "Condensation",
+      "Freezing"
+    ],
+    "correctAnswer": "Deposition"
+  },
+  {
+    "question": "What is the name of the particle that carries a positive charge in an atom?",
+    "answerChoices": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Photon"
+    ],
+    "correctAnswer": "Proton"
+  },
+  {
+    "question": "What is the name of the process by which a solid changes directly into a gas?",
+    "answerChoices": [
+      "Sublimation",
+      "Deposition",
+      "Condensation",
+      "Freezing"
+    ],
+    "correctAnswer": "Sublimation"
+  },
+  {
+    "question": "What is the name of the particle that carries a negative charge in an atom?",
+    "answerChoices": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Photon"
+    ],
+    "correctAnswer": "Electron"
+  },
+  {
+    "question": "What is the name of the process by which a gas changes directly into a solid?",
+    "answerChoices": [
+      "Deposition",
+      "Sublimation",
+      "Condensation",
+      "Freezing"
+    ],
+    "correctAnswer": "Deposition"
+  },
+  {
+    "question": "What is the name of the force that holds the nucleus of an atom together?",
+    "answerChoices": [
+      "Strong force",
+      "Weak force",
+      "Gravity",
+      "Electromagnetic force"
+    ],
+    "correctAnswer": "Strong force"
+  },
+  {
+    "question": "What is the name of the force that is responsible for radioactive decay?",
+    "answerChoices": [
+      "Weak force",
+      "Strong force",
+      "Gravity",
+      "Electromagnetic force"
+    ],
+    "correctAnswer": "Weak force"
+  },
+  {
+    "question": "What is the name of the force that is responsible for chemical bonding?",
+    "answerChoices": [
+      "Electromagnetic force",
+      "Strong force",
+      "Weak force",
+      "Gravity"
+    ],
+    "correctAnswer": "Electromagnetic force"
+  },
+  {
+    "question": "What is the name of the process by which an atom gains or loses electrons?",
+    "answerChoices": [
+      "Ionization",
+      "Fusion",
+      "Fission",
+      "Radioactivity"
+    ],
+    "correctAnswer": "Ionization"
+  },
+  {
+    "question": "What is the name of the type of electromagnetic radiation with the shortest wavelength?",
+    "answerChoices": [
+      "Gamma rays",
+      "X-rays",
+      "Ultraviolet rays",
+      "Infrared rays"
+    ],
+    "correctAnswer": "Gamma rays"
+  },
+  {
+    "question": "What is the name of the type of electromagnetic radiation with the longest wavelength?",
+    "answerChoices": [
+      "Radio waves",
+      "Microwaves",
+      "Infrared rays",
+      "Visible light"
+    ],
+    "correctAnswer": "Radio waves"
+  },
+  {
+    "question": "What is the name of the device that measures the intensity of earthquakes?",
+    "answerChoices": [
+      "Seismometer",
+      "Barometer",
+      "Thermometer",
+      "Hygrometer"
+    ],
+    "correctAnswer": "Seismometer"
+  },
+  {
+    "question": "What is the name of the process by which plants convert sunlight into energy?",
+    "answerChoices": [
+      "Photosynthesis",
+      "Respiration",
+      "Fermentation",
+      "Oxidation"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "What is the name of the process by which plants and animals release energy from food?",
+    "answerChoices": [
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Oxidation"
+    ],
+    "correctAnswer": "Respiration"
+  },
+  {
+    "question": "What is the name of the particle that carries a neutral charge in an atom?",
+    "answerChoices": [
+      "Neutron",
+      "Proton",
+      "Electron",
+      "Photon"
+    ],
+    "correctAnswer": "Neutron"
+  },
+  {
+    "question": "What is the name of the force that causes an object to float in a fluid?",
+    "answerChoices": [
+      "Buoyancy",
+      "Gravity",
+      "Electromagnetic force",
+      "Friction"
+    ],
+    "correctAnswer": "Buoyancy"
+  },
+  {
+    "question": "What is the name of the device that measures the intensity of light?",
+    "answerChoices": [
+      "Photometer",
+      "Spectrometer",
+      "Radiometer",
+      "Barometer"
+    ],
+    "correctAnswer": "Photometer"
+  },
+  {
+    "question": "What is the name of the process by which a nucleus splits into smaller fragments?",
+    "answerChoices": [
+      "Fission",
+      "Fusion",
+      "Radioactivity",
+      "Ionization"
+    ],
+    "correctAnswer": "Fission"
+  },
+  {
+    "question": "What is the name of the device that is used to measure temperature?",
+    "answerChoices": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Seismometer"
+    ],
+    "correctAnswer": "Thermometer"
+  },
+  {
+    "question": "What is the name of the force that opposes motion between two surfaces that are in contact?",
+    "answerChoices": [
+      "Friction",
+      "Gravity",
+      "Electromagnetic force",
+      "Buoyancy"
+    ],
+    "correctAnswer": "Friction"
+  },
+  {
+    "question": "What is the name of the type of bond that involves the sharing of electrons between atoms?",
+    "answerChoices": [
+      "Covalent bond",
+      "Ionic bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "correctAnswer": "Covalent bond"
+  },
+  {
+    "question": "What is the name of the type of bond that involves the transfer of electrons between atoms?",
+    "answerChoices": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "correctAnswer": "Ionic bond"
+  },
+  {
+    "question": "What is the name of the process by which water changes from a liquid to a gas?",
+    "answerChoices": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "correctAnswer": "Evaporation"
+  },
+  {
+    "question": "What is the name of the process by which a gas changes into a liquid?",
+    "answerChoices": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Freezing"
+    ],
+    "correctAnswer": "Condensation"
+  },
+  {
+    "question": "What is the name of the process by which a solid changes into a gas?",
+    "answerChoices": [
+      "Sublimation",
+      "Evaporation",
+      "Condensation",
+      "Melting"
+    ],
+    "correctAnswer": "Sublimation"
+  },
+  {
+    "question": "What is the name of the unit used to measure the amount of a substance?",
+    "answerChoices": [
+      "Mole",
+      "Kilogram",
+      "Meter",
+      "Second"
+    ],
+    "correctAnswer": "Mole"
+  },
+  {
+    "question": "What is the name of the unit used to measure electric current?",
+    "answerChoices": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correctAnswer": "Ampere"
+  },
+  {
+    "question": "What is the name of the unit used to measure resistance?",
+    "answerChoices": [
+      "Ohm",
+      "Ampere",
+      "Volt",
+      "Watt"
+    ],
+    "correctAnswer": "Ohm"
+  }
+]
